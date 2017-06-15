@@ -1,0 +1,87 @@
+body {
+  
+  
+ background-image: url('./tlo.png'); /* from http://subtlepatterns.com */
+  
+  
+  
+  
+  
+}
+
+#center {
+
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#login {
+
+width: 400px;
+height: 300px;
+background-color: blue;
+opacity: 0.5;
+border-radius: 20px;
+margin-left: auto;
+margin-right: auto;
+
+}
+#login_center {
+
+width: 400px;
+height: 150px;
+background-color: blue;
+opacity: 0.5;
+
+margin-left: auto;
+margin-right: auto;
+
+}
+#menu {
+border-radius: 20px;
+width: 230px;
+min-height: 300px;
+background-color: blue;
+opacity: 0.5;
+float: left;
+}
+#center2 {
+float: left;
+width: 100px;
+
+
+}
+#page {
+border-radius: 20px;
+width: 650px;
+min-height: 500px;
+background-color: blue;
+opacity: 0.5;
+margin-left: auto;
+float: left;
+}
+span.menu2 {
+ font-size: 20px;
+ color: white;
+ text-align: center;
+  
+}
+span.login {
+ font-size: 20px;
+ color: white;
+ text-align: center;
+  
+}
+a.menu {color:#d1db37; font-size: 17px;}
+a.menu:hover {color:#B7BC2E; font-size: 17px;}
+a.kalendarz {color: #ebecb8; font-size: 17px;}
+a.kalendarz:hover {color: #b8ba0a; font-size: 18px;}
+span.normalna2 {color: #d8e824; font-size: 17px;}
+span.wieksza{ color: #e1e31a; font-size: 19px;}
+span.pogrubiona {color:#dbe538;font-size: 21px;}
+span.blad {color:#ed703a;font-size: 21px;}
+span.succes {color:#c4b90c;font-size: 21px;}
+a.przycisk {color: #1a8eb0; font-size: 19px;}
+a.przycisk:hover {color: #1a8eb0; font-size: 19px;}
