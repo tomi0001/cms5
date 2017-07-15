@@ -1,8 +1,10 @@
+<body>
+<script src="{{asset('./jquery.js')}}"></script>
 <link href="{{ asset('./style.css') }}" rel="stylesheet"> 
 <link href="{{ asset('./bootstrap-3/css/bootstrap.min.css') }}" rel="stylesheet"> 
-<script src="{{asset('./jquery.js')}}"></script>
-<script src="{{asset('./funkcje.js')}}"></script>
 
+
+</bodY>
 <div id="center">
 
   <div id="menu">
@@ -25,3 +27,4 @@
   </div>
 
 </div>
+

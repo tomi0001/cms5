@@ -64,7 +64,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'europe/warszaw',
 
     /*
     |--------------------------------------------------------------------------
@@ -227,6 +227,8 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
         'Input' => Illuminate\Support\Facades\Input::class,
+        'Form' => 'Collective\Html\FormFacade',
+	'Html' => 'Collective\Html\FormFacade',
 
     ],
 

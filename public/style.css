@@ -74,6 +74,14 @@ span.login {
  text-align: center;
   
 }
+span.normalna3 {
+  color: #ebecb8;
+  
+}
+span.normalna4 {
+  color: #ebecb8;
+  
+}
 a.menu {color:#d1db37; font-size: 17px;}
 a.menu:hover {color:#B7BC2E; font-size: 17px;}
 a.kalendarz {color: #ebecb8; font-size: 17px;}
